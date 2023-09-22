@@ -5,7 +5,7 @@
 
   ![root github trophy](https://github-profile-trophy.vercel.app/?username=ahmadchen&theme=dracula)
   
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Get Social</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Redes Sociais</em>
 <p>
 <a href="https://www.instagram.com/guivhzz/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
