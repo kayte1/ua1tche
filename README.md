@@ -9,8 +9,6 @@
 <p>
 <a href="https://www.instagram.com/guivhzz/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-⭐️ From [@ua1tche](https://github.com/ua1tche)
-
 ## Sobre Mim :wave:
 
 *Ei! Meu nome é Guilherme, tenho 18 anos e moro em Goiânia*
