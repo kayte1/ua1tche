@@ -13,4 +13,4 @@
 
 ## Sobre Mim :wave:
 
-*Ei! Meu nome é Guilherme, tenho 18 anos, moro em Goiânia e faço algumas coisinhas legais por aí na internet rsrs*
+*Ei! Meu nome é Guilherme, tenho 18 anos e moro em Goiânia*
