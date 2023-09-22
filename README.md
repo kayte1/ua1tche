@@ -9,7 +9,7 @@
 <p>
 <a href="https://www.instagram.com/guivhzz/?hl=en"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-⭐️ From [@ua1the](https://github.com/ua1tche)
+⭐️ From [@ua1tche](https://github.com/ua1tche)
 
 ## Sobre Mim :wave:
 
