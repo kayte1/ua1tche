@@ -6,5 +6,5 @@
   ![root github trophy](https://github-profile-trophy.vercel.app/?username=ahmadchen&theme=dracula)
 
   ### Sobre Mim
-Ex membro do grupo hacker LAPSUS$, atualmente atuando como white hat hacker e pentester!
+Membro do grupo hacker "ViLE".
 
